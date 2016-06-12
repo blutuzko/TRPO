@@ -1,3 +1,3 @@
 # test vetka
 
-https://travis-ci.org/blutuzko/TRPO.svg?branch=master
+{<img src="https://travis-ci.org/blutuzko/TRPO.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/blutuzko/TRPO]
