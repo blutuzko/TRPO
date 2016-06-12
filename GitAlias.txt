@@ -1,0 +1,13 @@
+name - Alex
+cm - commit
+co - checkout
+cf - config
+hist - log
+ad - add
+rs - reset
+ph - push
+pl - pull
+cl - clone
+st - status
+br - branch
+merge
