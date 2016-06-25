@@ -18,7 +18,7 @@ CTEST_DATA(test_data)
 
 CTEST2(test_data, test_d1) 
 {
-    data->a = 1;
+    data->a = 5;
     data->b = 3;
     data->c = 2;
     
